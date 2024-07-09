@@ -15,9 +15,9 @@
                                                                        "LT(6,KC_ESC)", "LT(4,KC_BSPC)", "LT(5,KC_DEL)", "LT(2,KC_ENT)", "LT(1,KC_SPC)", "LT(3,KC_TAB)"
         ],
         [
-            "XXXXXXX", "KC_PGUP", "KC_HOME", "KC_UP",   "KC_END",  "KC_INS",                       "XXXXXXX", "XXXXXXX", "XXXXXXX", "XXXXXXX", "QK_RBT",  "XXXXXXX",
-            "XXXXXXX", "KC_PGDN", "KC_LEFT", "KC_DOWN", "KC_RGHT", "KC_CAPS",                      "XXXXXXX", "KC_LSFT", "KC_LGUI", "KC_LALT", "KC_LCTL", "XXXXXXX",
-            "XXXXXXX", "KC_UNDO", "KC_CUT",  "KC_COPY", "KC_PSTE", "KC_AGIN",                      "XXXXXXX", "XXXXXXX", "XXXXXXX", "KC_RALT", "XXXXXXX", "XXXXXXX",
+            "XXXXXXX", "QK_RBT",  "XXXXXXX", "XXXXXXX", "XXXXXXX", "XXXXXXX",                      "KC_HOME", "KC_PGDN", "KC_PGUP", "KC_END",  "XXXXXXX", "XXXXXXX",
+            "XXXXXXX", "KC_LCTL", "KC_LALT", "KC_LGUI", "KC_LSFT", "XXXXXXX",                      "KC_LEFT", "KC_DOWN", "KC_UP",   "KC_RGHT", "XXXXXXX", "XXXXXXX",
+            "XXXXXXX", "XXXXXXX", "KC_RALT", "XXXXXXX", "XXXXXXX", "XXXXXXX",                      "XXXXXXX", "XXXXXXX", "XXXXXXX", "XXXXXXX", "XXXXXXX", "XXXXXXX",
                                                         "KC_ESC",  "KC_BSPC", "KC_DEL", "XXXXXXX", "XXXXXXX", "XXXXXXX"
         ],
         [
